@@ -1,5 +1,5 @@
-titulo_curso = 'Curso profesional de Python'
+titulo_curso = 'Curso profesional de Python y GIT'
 
-nombre_completo = 'Eduardo Ismael García Pérez'
+nombre_completo = 'Adrián Josué Sandoval Medina'
 
-print(titulo_curso)
+print(f"{nombre_completo} esta estudiando el {titulo_curso}")

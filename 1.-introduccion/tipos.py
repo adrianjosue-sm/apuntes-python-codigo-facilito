@@ -2,7 +2,7 @@
 titulo_curso = 'Curso profesional de Python'
 print(titulo_curso)
 
-nombre_completo = "Eduardo Ismael"
+nombre_completo = "Adrián Medina"
 print(nombre_completo)
 
 mensaje = '''Te encuentras

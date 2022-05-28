@@ -1,5 +1,5 @@
 # Esta línea se encuentra comentada.
-print('Hola mundo')
+print('Hola mundo. Este es un curso de pyhton y git')
 
 """
 Este es un comentario

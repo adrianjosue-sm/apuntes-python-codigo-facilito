@@ -1,4 +1,4 @@
-valor = "Eduardo"
+valor = "Adrian Medina"
 print(type(valor))
 
 valor = 2

@@ -1,4 +1,4 @@
-nombre, apellido, titulo = 'Eduardo', 'García', 'Mr.'
+nombre, apellido, titulo = 'Adrián', 'Medina', 'Mr.'
 
 print(nombre)
 print(apellido)

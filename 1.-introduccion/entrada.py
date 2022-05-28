@@ -1,4 +1,4 @@
-nombre_completo = input('Ingresa tu nombre completo: ') # str
+nombre_completo = str(input('Ingresa tu nombre completo: '))  # str
 
 edad = int(input('Ingresa tu edad: '))
 
