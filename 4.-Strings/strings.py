@@ -8,7 +8,7 @@ print(listado_lenguajes)
 
 lenguajes = ['Python', 'Ruby', 'Java', 'Rust']
 
-string_lenguajes = '-'.join(lenguajes)
+string_lenguajes = '-'.join(lenguajes)  # Convierte una lista a un formato cadena str
 
 print(string_lenguajes)
 print(type(string_lenguajes))

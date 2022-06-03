@@ -1,4 +1,4 @@
-mensaje = '   Curso profesional de Python, donde aprenderemos Python.   '
+mensaje = 'Curso profesional de Python, donde aprenderemos Python.'
 
 # mensaje = mensaje.upper()
 # mensaje = mensaje.lower()

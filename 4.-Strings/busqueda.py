@@ -9,4 +9,4 @@ print(contador)
 # startswith
 # endswith
 
-print(titulo_curso.endswith('Python'))
+print(titulo_curso.endswith('Python'))  # Indicamos si la variaple titulo_curso termina con la palabra 'Python'

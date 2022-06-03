@@ -1,7 +1,8 @@
 cursos = ('Python', 'Flask', 'Django', 'Rails', 'MongoDB')
 #           0           1       2          3        4
+#          -5          -4      -3         -2       -1
 
-primer_curso = cursos[0]
+primer_curso = cursos[0] 
 print(primer_curso)
 
 ultimo_curso = cursos[-1]
