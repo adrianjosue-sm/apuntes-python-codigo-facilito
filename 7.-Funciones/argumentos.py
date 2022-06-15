@@ -7,7 +7,7 @@ def usuarios(**kwargs): # Dict
     print(type(kwargs))
 
 
-def combinacion(p1, p2, *args, **kwargs, p5=500):
+def combinacion(p1, p2, *args, **kwargs):
     print(args)
     print(kwargs)
 
